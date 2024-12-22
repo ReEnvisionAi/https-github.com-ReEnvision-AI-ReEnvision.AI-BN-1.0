@@ -1,0 +1,11 @@
+.swp
+.tern-*
+node_modules
+/sessions
+/.env
+/.env.*.local
+/session-store.db
+dist
+.DS_Store
+package-lock.json
+pnpm-lock.yaml
